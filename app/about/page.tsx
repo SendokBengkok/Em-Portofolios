@@ -56,7 +56,7 @@ and working together with others around.
         </div>
 
         <Image
-          src="/icon.png"
+          src="/Icon.png"
           alt="ICON"
           width={300}
           height={300}
