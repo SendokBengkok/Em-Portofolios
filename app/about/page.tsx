@@ -41,14 +41,14 @@ export default function AboutPage() {
   <div className="flex items-center gap-8">
         <div>
           <p className=" text-[30px] text-[#251B23] mb-7 mt-7">
-        I'm passionate in learning and exploring things
+        I&apos;m passionate in learning and exploring things
 such as history and cultures to apply them in my
 artworks. The most creative thing about it is seeing how people will
 perceive those elements, hoping they can resonate and also be
 inspired by them.
 </p>
   <p className=" text-[30px] text-[#251B23]">
-I'm skilled with creating designs and artworks that have a distinct
+I&apos;m skilled with creating designs and artworks that have a distinct
 feel to them. Proven to also adapt with works given, time manage
 and working together with others around.
           </p>
@@ -104,7 +104,7 @@ and working together with others around.
         />
       </section>
       <footer className="text-center bg-[#F7F3EA]">
-      <p className="text-sm text-gray-600">© 2025 Emma's Portofolio. All rights reserved.</p>
+      <p className="text-sm text-gray-600">© 2025 Emma&apos;s Portofolio. All rights reserved.</p>
     </footer>
     </div>
   )
