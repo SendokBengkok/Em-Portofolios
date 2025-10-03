@@ -13,7 +13,7 @@ export default function FanartPage() {
         <span className="text-[200px] text-[#E3086F] -ml-2 mix-blend-multiply">T</span>  
         </h1>
          <Image
-                          src="/SORE.png"
+                          src="/sore.png"
                           alt="SORE: ISTRI DARI MASA DEPAN FANART"
                           width={900}
                           height={900}
@@ -23,7 +23,7 @@ export default function FanartPage() {
                  <p className="text-[30px] text-[#251B23] mb-8"  >TENGGELAM DALAM WAKTU (SORE: ISTRI DARI MASA DEPAN) [2025]</p>
         
          <Image 
-          src="/SANJI.png" 
+          src="/sanji.png" 
           alt="SANJI'S SUNFLOWER FANART" 
           width={800} 
           height={800} 
@@ -33,7 +33,7 @@ export default function FanartPage() {
                 <p className="text-[30px] text-[#251B23] mb-8"  >TELL ME ABOUT YOUR NEW HOME (ONE PIECE) [2025]</p>
         
          <Image
-                          src="/UT.png"
+                          src="/ut.png"
                           alt="LIGHT MY LOVE UNDERTALE FANART"
                           width={500}
                           height={500}
