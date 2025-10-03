@@ -97,7 +97,7 @@ and working together with others around.
         </Link>
 
  <Image
-          src="/sona.png"
+          src="/Sona.png"
           alt="SONA"
           width={900}
           height={900}
