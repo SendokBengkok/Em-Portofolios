@@ -5,7 +5,7 @@ import Link from "next/link"
 export default function Hero() {
   return (
     <section className="py-20 px-30 bg-[#F7F3EA]">
-        <h1 className="text-6xl font-bold tracking-tight">
+        <h1 className="text-3xl md:text-5xl lg:text-6xl font-bold tracking-tight">
         <span className="text-[340px] text-[#E3086F] -ml-2 mix-blend-multiply">P</span>
         <span className="text-[340px] text-[#E9DE0D] -ml-2 mix-blend-multiply">O</span>
         <span className="text-[340px] text-[#0CA4D5] -ml-2 mix-blend-multiply">R</span>
@@ -13,7 +13,7 @@ export default function Hero() {
         <span className="text-[340px] text-[#E9DE0D] -ml-2 mix-blend-multiply">O</span>  
         </h1>
 
-          <h2 className="text-7xl font-extrabold tracking-widest -mt-25 -ml-10">
+          <h2 className="text-3xl md:text-5xl lg:text-6xl font-extrabold tracking-widest -mt-25 -ml-10">
         <span className="text-[340px] text-[#0CA4D5] -ml-2 mix-blend-multiply">F</span>
         <span className="text-[340px] text-[#E3086F] -ml-2 mix-blend-multiply">O</span>
         <span className="text-[340px] text-[#251B23] -ml-2 mix-blend-multiply">L</span>
@@ -24,7 +24,7 @@ export default function Hero() {
         <p className="text-[38px] text-[#251B23] text-left">Emmanuela Agatha Susanto - Visual Designer</p>
         <p className="text-[24px] text-[#251B23] text-left">Illustrator and Graphic Designer</p>
 
-        <h3 className="text-6xl font-bold tracking-tight mt 30 -ml 10">
+        <h3 className="text-3xl md:text-5xl lg:text-6xl font-bold tracking-tight mt 30 -ml 10">
         <span className="text-[200px] text-[#251B23] -ml-2 mix-blend-multiply">P</span>
         <span className="text-[200px] text-[#251B23] -ml-2 mix-blend-multiply">E</span>
         <span className="text-[200px] text-[#251B23] -ml-2 mix-blend-multiply">R</span>
@@ -35,7 +35,7 @@ export default function Hero() {
         <span className="text-[200px] text-[#251B23] -ml-2 mix-blend-multiply">L</span>
         </h3>
 
-        <h4 className="text-6xl font-bold tracking-tight">
+        <h4 className="text-3xl md:text-5xl lg:text-6xl font-bold tracking-tight">
         <span className="text-[200px] text-[#251B23] -ml-2 mb-3 mix-blend-multiply">P</span>
         <span className="text-[200px] text-[#251B23] -ml-2 mb-3 mix-blend-multiply">R</span>
         <span className="text-[200px] text-[#251B23] -ml-2 mb-3 mix-blend-multiply">O</span>

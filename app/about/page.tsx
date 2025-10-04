@@ -5,8 +5,8 @@ export default function AboutPage() {
   return (
   <div>
        <section className="py-20 px-30 bg-[#F7F3EA]">
-      <h2>Projects</h2>
-      <h1 className="text-6xl font-bold tracking-tight">
+
+      <h1 className="text-3xl md:text-5xl lg:text-6xl font-bold tracking-tight">
         <span className="text-[200px] text-[#0CA4D5] -ml-2 mix-blend-multiply">A</span>
         <span className="text-[200px] text-[#0CA4D5] -ml-2 mix-blend-multiply">B</span>
         <span className="text-[200px] text-[#0CA4D5] -ml-2 mix-blend-multiply">O</span>
@@ -92,8 +92,7 @@ and working together with others around.
          target="_blank" 
          rel="noopener noreferrer"
          className="text-center bg-[#E3086F] text-[100px] text-[#E9DE0D] underline rounded-lg hover:text-[#F7F3EA]"
-         > 
-         SEND ME AN EMAIL!
+         > SEND ME AN EMAIL!
         </Link>
 
  <Image

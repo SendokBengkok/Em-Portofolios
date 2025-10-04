@@ -3,8 +3,8 @@ export default function FanartPage() {
   return (
     <div>
        <section className="py-20 px-30 bg-[#F7F3EA]">
-      <h2>Projects</h2>
-      <h1 className="text-6xl font-bold tracking-tight mb-10">
+ 
+      <h1 className="text-3xl md:text-5xl lg:text-6xl font-bold tracking-tight mb-10">
         <span className="text-[200px] text-[#E3086F] -ml-2 mix-blend-multiply">F</span>
         <span className="text-[200px] text-[#E3086F] -ml-2 mix-blend-multiply">A</span>
         <span className="text-[200px] text-[#E3086F] -ml-2 mix-blend-multiply">N</span>
