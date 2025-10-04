@@ -1,7 +1,7 @@
 import Image from "next/image"
 export default function MiscPage() {
   return (
-    <div>
+<div className="max-w-screen-lg mx-auto px-4">
        <section className="py-20 px-30 bg-[#F7F3EA]">
 
       <h1 className="text-3xl md:text-5xl lg:text-6xl font-bold tracking-tight mb-10">
