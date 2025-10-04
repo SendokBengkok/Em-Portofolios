@@ -7,43 +7,43 @@ export default function Hero() {
     <section className="py-20 px-30 bg-[#F7F3EA]">
   <div>
         <h1 className="text-3xl md:text-5xl lg:text-6xl font-bold tracking-tight">
-        <span className="text-[250px] text-[#E3086F] -ml-2 mix-blend-multiply">P</span>
-        <span className="text-[250px] text-[#E9DE0D] -ml-2 mix-blend-multiply">O</span>
-        <span className="text-[250px] text-[#0CA4D5] -ml-2 mix-blend-multiply">R</span>
-        <span className="text-[250px] text-[#251B23] -ml-2 mix-blend-multiply">T</span>
-        <span className="text-[250px] text-[#E9DE0D] -ml-2 mix-blend-multiply">O</span>  
+        <span className="text-[200px] text-[#E3086F] -ml-2 mix-blend-multiply">P</span>
+        <span className="text-[200px] text-[#E9DE0D] -ml-2 mix-blend-multiply">O</span>
+        <span className="text-[200px] text-[#0CA4D5] -ml-2 mix-blend-multiply">R</span>
+        <span className="text-[200px] text-[#251B23] -ml-2 mix-blend-multiply">T</span>
+        <span className="text-[200px] text-[#E9DE0D] -ml-2 mix-blend-multiply">O</span>  
         </h1>
 
           <h2 className="text-3xl md:text-5xl lg:text-6xl font-extrabold tracking-widest -mt-25 -ml-10">
-        <span className="text-[250px] text-[#0CA4D5] -ml-2 mix-blend-multiply">F</span>
-        <span className="text-[250px] text-[#E3086F] -ml-2 mix-blend-multiply">O</span>
-        <span className="text-[250px] text-[#251B23] -ml-2 mix-blend-multiply">L</span>
-        <span className="text-[250px] text-[#E9DE0D] -ml-2 mix-blend-multiply">I</span>
-        <span className="text-[250px] text-[#0CA4D5] -ml-2 mix-blend-multiply">O</span></h2>
+        <span className="text-[200px] text-[#0CA4D5] -ml-2 mix-blend-multiply">F</span>
+        <span className="text-[200px] text-[#E3086F] -ml-2 mix-blend-multiply">O</span>
+        <span className="text-[200px] text-[#251B23] -ml-2 mix-blend-multiply">L</span>
+        <span className="text-[200px] text-[#E9DE0D] -ml-2 mix-blend-multiply">I</span>
+        <span className="text-[200px] text-[#0CA4D5] -ml-2 mix-blend-multiply">O</span></h2>
         
       
         <p className="text-[38px] text-[#251B23] text-left">Emmanuela Agatha Susanto - Visual Designer</p>
         <p className="text-[24px] text-[#251B23] text-left">Illustrator and Graphic Designer</p>
 
         <h3 className="text-3xl md:text-5xl lg:text-6xl font-bold tracking-tight mt 30 -ml 10">
-        <span className="text-[150px] text-[#251B23] -ml-2 mix-blend-multiply">P</span>
-        <span className="text-[150px] text-[#251B23] -ml-2 mix-blend-multiply">E</span>
-        <span className="text-[150px] text-[#251B23] -ml-2 mix-blend-multiply">R</span>
-        <span className="text-[150px] text-[#251B23] -ml-2 mix-blend-multiply">S</span>
-        <span className="text-[150px] text-[#251B23] -ml-2 mix-blend-multiply">O</span> 
-        <span className="text-[150px] text-[#251B23] -ml-2 mix-blend-multiply">N</span>
-        <span className="text-[150px] text-[#251B23] -ml-2 mix-blend-multiply">A</span>
-        <span className="text-[150px] text-[#251B23] -ml-2 mix-blend-multiply">L</span>
+        <span className="text-[125px] text-[#251B23] -ml-2 mix-blend-multiply">P</span>
+        <span className="text-[125px] text-[#251B23] -ml-2 mix-blend-multiply">E</span>
+        <span className="text-[125px] text-[#251B23] -ml-2 mix-blend-multiply">R</span>
+        <span className="text-[125px] text-[#251B23] -ml-2 mix-blend-multiply">S</span>
+        <span className="text-[125px] text-[#251B23] -ml-2 mix-blend-multiply">O</span> 
+        <span className="text-[125px] text-[#251B23] -ml-2 mix-blend-multiply">N</span>
+        <span className="text-[125px] text-[#251B23] -ml-2 mix-blend-multiply">A</span>
+        <span className="text-[125px] text-[#251B23] -ml-2 mix-blend-multiply">L</span>
         </h3>
 
         <h4 className="text-3xl md:text-5xl lg:text-6xl font-bold tracking-tight">
-        <span className="text-[150px] text-[#251B23] -ml-2 mb-3 mix-blend-multiply">P</span>
-        <span className="text-[150px] text-[#251B23] -ml-2 mb-3 mix-blend-multiply">R</span>
-        <span className="text-[150px] text-[#251B23] -ml-2 mb-3 mix-blend-multiply">O</span>
-        <span className="text-[150px] text-[#251B23] -ml-2 mb-3 mix-blend-multiply">J</span>
-        <span className="text-[150px] text-[#251B23] -ml-2 mb-3 mix-blend-multiply">E</span> 
-        <span className="text-[150px] text-[#251B23] -ml-2 mb-3 mix-blend-multiply">C</span>
-        <span className="text-[150px] text-[#251B23] -ml-2 mb-3 mix-blend-multiply">T</span>
+        <span className="text-[125px] text-[#251B23] -ml-2 mb-3 mix-blend-multiply">P</span>
+        <span className="text-[125px] text-[#251B23] -ml-2 mb-3 mix-blend-multiply">R</span>
+        <span className="text-[125px] text-[#251B23] -ml-2 mb-3 mix-blend-multiply">O</span>
+        <span className="text-[125px] text-[#251B23] -ml-2 mb-3 mix-blend-multiply">J</span>
+        <span className="text-[125px] text-[#251B23] -ml-2 mb-3 mix-blend-multiply">E</span> 
+        <span className="text-[125px] text-[#251B23] -ml-2 mb-3 mix-blend-multiply">C</span>
+        <span className="text-[125px] text-[#251B23] -ml-2 mb-3 mix-blend-multiply">T</span>
         </h4>
 </div>
         <Image

@@ -5,12 +5,12 @@ export default function FanartPage() {
        <section className="py-20 px-30 bg-[#F7F3EA]">
  
       <h1 className="text-3xl md:text-5xl lg:text-6xl font-bold tracking-tight mb-10">
-        <span className="text-[150px] text-[#E3086F] -ml-2 mix-blend-multiply">F</span>
-        <span className="text-[150px] text-[#E3086F] -ml-2 mix-blend-multiply">A</span>
-        <span className="text-[150px] text-[#E3086F] -ml-2 mix-blend-multiply">N</span>
-        <span className="text-[150px] text-[#E3086F] -ml-2 mix-blend-multiply">A</span>
-        <span className="text-[150px] text-[#E3086F] -ml-2 mix-blend-multiply">R</span>  
-        <span className="text-[150px] text-[#E3086F] -ml-2 mix-blend-multiply">T</span>  
+        <span className="text-[125px] text-[#E3086F] -ml-2 mix-blend-multiply">F</span>
+        <span className="text-[125px] text-[#E3086F] -ml-2 mix-blend-multiply">A</span>
+        <span className="text-[125px] text-[#E3086F] -ml-2 mix-blend-multiply">N</span>
+        <span className="text-[125px] text-[#E3086F] -ml-2 mix-blend-multiply">A</span>
+        <span className="text-[125px] text-[#E3086F] -ml-2 mix-blend-multiply">R</span>  
+        <span className="text-[125px] text-[#E3086F] -ml-2 mix-blend-multiply">T</span>  
         </h1>
          <Image
                           src="/sore.png"

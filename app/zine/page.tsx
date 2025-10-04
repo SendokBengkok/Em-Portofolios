@@ -10,24 +10,24 @@ export default function AboutPage() {
         <Image
           src="/DAFIS.png"
           alt="CONTENT LIST"
-          width={900}
-          height={900}
+          width={1100}
+          height={1100}
           className="hadow-lg"
         />
 
         <Image
           src="/78.png"
           alt="PAGE 7 AND 8"
-          width={900}
-          height={900}
+          width={1100}
+          height={1100}
           className="shadow-lg"
         />
 
         <Image
           src="/MOCKUP.png"
           alt="MOCK UP"
-          width={900}
-          height={900}
+          width={1100}
+          height={1100}
           className="shadow-lg"
         />
         <p className="text-[25px] text-[#251B23] mt-8"  >A zine comparing Pandavas and Kauravas that have similarities/parallels each other (based on the Indian mythology). Ite&apos;s an illustration focused zine. Designs are original based on how I personally interpret the story.</p>

@@ -5,14 +5,14 @@ export default function BrandingPage() {
        <section className="py-20 px-30 bg-[#F7F3EA]">
       
       <h1 className="text-3xl md:text-5xl lg:text-6xl font-bold tracking-tight mb-10">
-        <span className="text-[150px] text-[#E9DE0D] -ml-2 mix-blend-multiply">B</span>
-        <span className="text-[150px] text-[#E9DE0D] -ml-2 mix-blend-multiply">R</span>
-        <span className="text-[150px] text-[#E9DE0D] -ml-2 mix-blend-multiply">A</span>
-        <span className="text-[150px] text-[#E9DE0D] -ml-2 mix-blend-multiply">N</span>
-        <span className="text-[150px] text-[#E9DE0D] -ml-2 mix-blend-multiply">D</span>
-        <span className="text-[150px] text-[#E9DE0D] -ml-2 mix-blend-multiply">I</span>  
-        <span className="text-[150px] text-[#E9DE0D] -ml-2 mix-blend-multiply">N</span>  
-        <span className="text-[150px] text-[#E9DE0D] -ml-2 mix-blend-multiply">G</span>  
+        <span className="text-[125px] text-[#E9DE0D] -ml-2 mix-blend-multiply">B</span>
+        <span className="text-[15125px0px] text-[#E9DE0D] -ml-2 mix-blend-multiply">R</span>
+        <span className="text-[125px] text-[#E9DE0D] -ml-2 mix-blend-multiply">A</span>
+        <span className="text-[125px] text-[#E9DE0D] -ml-2 mix-blend-multiply">N</span>
+        <span className="text-[125px] text-[#E9DE0D] -ml-2 mix-blend-multiply">D</span>
+        <span className="text-[125px] text-[#E9DE0D] -ml-2 mix-blend-multiply">I</span>  
+        <span className="text-[125px] text-[#E9DE0D] -ml-2 mix-blend-multiply">N</span>  
+        <span className="text-[125px] text-[#E9DE0D] -ml-2 mix-blend-multiply">G</span>  
         </h1>
          <Image
                   src="/MAKAN.png"

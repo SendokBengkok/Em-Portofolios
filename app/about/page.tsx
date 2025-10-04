@@ -7,11 +7,11 @@ export default function AboutPage() {
        <section className="py-20 px-30 bg-[#F7F3EA]">
 
       <h1 className="text-3xl md:text-5xl lg:text-6xl font-bold tracking-tight">
-        <span className="text-[200px] text-[#0CA4D5] -ml-2 mix-blend-multiply">A</span>
-        <span className="text-[200px] text-[#0CA4D5] -ml-2 mix-blend-multiply">B</span>
-        <span className="text-[200px] text-[#0CA4D5] -ml-2 mix-blend-multiply">O</span>
-        <span className="text-[200px] text-[#0CA4D5] -ml-2 mix-blend-multiply">U</span>
-        <span className="text-[200px] text-[#0CA4D5] -ml-2 mix-blend-multiply">T</span>
+        <span className="text-[150px] text-[#0CA4D5] -ml-2 mix-blend-multiply">A</span>
+        <span className="text-[150px] text-[#0CA4D5] -ml-2 mix-blend-multiply">B</span>
+        <span className="text-[150px] text-[#0CA4D5] -ml-2 mix-blend-multiply">O</span>
+        <span className="text-[150px] text-[#0CA4D5] -ml-2 mix-blend-multiply">U</span>
+        <span className="text-[150px] text-[#0CA4D5] -ml-2 mix-blend-multiply">T</span>
         </h1>
 
       <div className="flex items-center gap-8">
