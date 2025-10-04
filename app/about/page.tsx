@@ -84,8 +84,7 @@ and working together with others around.
     <p className="text-[20px] text-[#251B23]"> I have native fluency in Indonesian and speak English since grade school.
 </p>
 
-  <p className="text-center text-[25px] text-[#251B23] mt-20">Interested in working with me? You can contact me</p>
-  <p className="text-center text-[25px] text-[#251B23]">through my socials or through my email!</p>
+  <p className="text-center text-[25px] text-[#251B23] mt-20">Interested in working with me? You can contact me through my socials or through my email!</p>
 <div className="text-center">
     <Link
         href="mailto:e.agatha.susanto@gmail.com" 
