@@ -22,8 +22,8 @@ export default function Hero() {
         <span className="text-[175px] text-[#0CA4D5] -ml-2 mix-blend-multiply">O</span></h2>
         
       
-        <p className="text-[38px] text-[#251B23] text-left">Emmanuela Agatha Susanto - Visual Designer</p>
-        <p className="text-[24px] text-[#251B23] text-left">Illustrator and Graphic Designer</p>
+        <p className="text-[30px] text-[#251B23] text-left">Emmanuela Agatha Susanto - Visual Designer</p>
+        <p className="text-[20px] text-[#251B23] text-left">Illustrator and Graphic Designer</p>
 
         <h3 className="text-3xl md:text-5xl lg:text-6xl font-bold tracking-tight mt 30 -ml 10">
         <span className="text-[100px] text-[#251B23] -ml-2 mix-blend-multiply">P</span>
