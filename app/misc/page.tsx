@@ -13,16 +13,16 @@ export default function MiscPage() {
         </h1>
 
           <div className="grid grid-cols-3">
-            <Image src="/1.png" alt="TUMBLR MOCK UP" width={600} height={600} className="shadow-lg" />
-            <Image src="/2.png" alt="POSTER MOCKUP" width={600} height={600} className="shadow-lg" />
-            <Image src="/3.png" alt="POSTER MOCKUP" width={600} height={600} className="shadow-lg" />
+            <Image src="/1.png" alt="BASEMENT" width={600} height={600} className="shadow-lg" />
+            <Image src="/2.png" alt="BALCONY" width={600} height={600} className="shadow-lg" />
+            <Image src="/3.png" alt="CONES" width={600} height={600} className="shadow-lg" />
                 </div>
           
              <p className="text-[30px] text-[#251B23] mb-8"  >NEGATIVE SPACE [2024]</p>
           
          <Image
                           src="/4.png"
-                          alt="MAKAN POSTER"
+                          alt="SCOTT PILGRIM REDRAW POSTER"
                           width={700}
                           height={700}
                           className="shadow-lg"
@@ -32,7 +32,7 @@ export default function MiscPage() {
 
                           <Image
                           src="/5.png"
-                          alt="MAKAN POSTER"
+                          alt="APPLE STUDY"
                           width={600}
                           height={600}
                           className="shadow-lg"
