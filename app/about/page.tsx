@@ -56,7 +56,7 @@ and working together with others around.
         </div>
 
         <Image
-          src="/ICON.png"
+          src="/PROFILE.png"
           alt="ICON"
           width={200}
           height={200}
@@ -97,7 +97,7 @@ and working together with others around.
 </div>
 
  <Image
-          src="/SONA.png"
+          src="/EMI.png"
           alt="SONA"
           width={900}
           height={900}

@@ -69,7 +69,7 @@ export default function Hero() {
 
         < Link href="/deckrant">
           <Image
-          src="/Poster CDW.png"
+          src="/POSTER CDW.png"
           alt="DECK RANT"
           width={500}
           height={500}
@@ -82,7 +82,7 @@ export default function Hero() {
         < Link href="/nestle">
           <Image
           src="/Nestle.png"
-          alt="DECK RANT"
+          alt="NESTLE"
           width={500}
           height={500}
           className="shadow-lg transition-transform duration-300 ease-in-out hover:scale-105"
