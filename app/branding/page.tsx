@@ -1,4 +1,6 @@
 import Image from "next/image"
+import Link from "next/link"
+
 export default function BrandingPage() {
   return (
 <div>
@@ -14,6 +16,19 @@ export default function BrandingPage() {
         <span className="text-[110px] text-[#E9DE0D] -ml-2 mix-blend-multiply">N</span>  
         <span className="text-[110px] text-[#E9DE0D] -ml-2 mix-blend-multiply">G</span>  
         </h1>
+
+            < Link href="/nestle">
+          <Image
+          src="/Nestle.png"
+          alt="DECK RANT"
+          width={500}
+          height={500}
+          className="shadow-lg transition-transform duration-300 ease-in-out hover:scale-105"
+          />
+        </Link>
+
+        <p className="text-[30px] text-[#251B23] mt-5 mb-8"  >NESTLÉ REDISGN IN ART NOUVEAU STYLE [2025]</p>
+
          <Image
                   src="/MAKAN.png"
                   alt="MAKAN POSTER"
@@ -77,7 +92,7 @@ export default function BrandingPage() {
 
       </section>
       <footer className="text-center bg-[#F7F3EA]">
-      <p className="text-sm text-gray-600">© 2025 Emma&apos;s Portofolio. All rights reserved.</p>
+      <p className="text-sm text-gray-600">© 2026 Emma&apos;s Portofolio. All rights reserved.</p>
     </footer>
     </div>
   )

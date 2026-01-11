@@ -34,7 +34,7 @@ export default function AboutPage() {
 
       </section>
       <footer className="text-center bg-[#F7F3EA]">
-      <p className="text-sm text-gray-600">© 2025 Emmae&apos;s Portofolio. All rights reserved.</p>
+      <p className="text-sm text-gray-600">© 2026 Emmae&apos;s Portofolio. All rights reserved.</p>
     </footer>
     </div>
   )

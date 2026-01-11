@@ -20,11 +20,11 @@ export default function AboutPage() {
               alt="FOTO"
               width={250}
               height={250}
-              className="rounded-lg shadow-lg"
+              className="rounded-lg shadow-lg m-0 p-0 block"
           />
 
-        <div>
-          <h1 className=" text-[30px] text-[#251B23]" >EMMANUELA AGATHA S.</h1>
+        <div className="p-0"> 
+          <h1 className=" text-[30px] text-[#251B23]" >EMMANUELA AS.</h1>
           <p className="text-[20px] text-[#E3086F]"> Indonesian illustrator </p>
 
            <p className="text-[20px] text-[#E3086F]"> Majoring in Visual Design </p>
@@ -38,9 +38,9 @@ export default function AboutPage() {
         </div>
       </div>
         
-  <div className="flex items-center gap-8">
+  <div className="flex items-center gap-2">
         <div>
-          <p className=" text-[20px] text-[#251B23] mb-7 mt-7">
+          <p className=" text-[20px] text-[#251B23] mb-7 mt-0 ">
         I&apos;m passionate in learning and exploring things
 such as history and cultures to apply them in my
 artworks. The most creative thing about it is seeing how people will
@@ -56,16 +56,17 @@ and working together with others around.
         </div>
 
         <Image
-          src="/Icon.png"
+          src="/ICON.png"
           alt="ICON"
-          width={150}
-          height={150}
-          className="rounded-lg shadow-lg"
+          width={200}
+          height={200}
+          className="rounded-lg "
         />
       </div>
+
    <h1 className=" text-[30px] text-[#251B23] mt-10" >PROGRAM USED</h1>
     <Image
-          src="/APPS.png"
+          src="/PROGRAMS.png"
           alt="PROGRAMS"
           width={900}
           height={900}
@@ -74,7 +75,7 @@ and working together with others around.
  <h1 className=" text-[30px] text-[#251B23] mt-10" >INTERESTS</h1>
     <p className="text-[20px] text-[#251B23]"> - art and studies</p>
     <p className="text-[20px] text-[#251B23]"> - personal projects (ocs, concepts, etc) </p>
-    <p className="text-[20px] text-[#251B23]"> - games (honkai star rail and undertale/deltarune) </p>
+    <p className="text-[20px] text-[#251B23]"> - games (honkai star rail and undertale/deltarune, expedition 33) </p>
     <p className="text-[20px] text-[#251B23]"> - animated shows and movies </p>
     <p className="text-[20px] text-[#251B23]"> - music, mainly piano and singing or just songs in general </p>
     <p className="text-[20px] text-[#251B23]"> - anime and manga (one piece, mp100, skip and loafer)</p>
@@ -94,15 +95,16 @@ and working together with others around.
          > SEND ME AN EMAIL!
         </Link>
 </div>
+
  <Image
-          src="/Sona.png"
+          src="/SONA.png"
           alt="SONA"
           width={900}
           height={900}
         />
       </section>
       <footer className="text-center bg-[#F7F3EA]">
-      <p className="text-sm text-gray-600">© 2025 Emma&apos;s Portofolio. All rights reserved.</p>
+      <p className="text-sm text-gray-600">© 2026 Emma&apos;s Portofolio. All rights reserved.</p>
     </footer>
     </div>
   )

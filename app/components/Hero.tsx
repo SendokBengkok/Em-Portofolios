@@ -22,7 +22,7 @@ export default function Hero() {
         <span className="text-[175px] text-[#0CA4D5] -ml-2 mix-blend-multiply">O</span></h2>
         
       
-        <p className="text-[30px] text-[#251B23] text-left">Emmanuela Agatha Susanto - Visual Designer</p>
+        <p className="text-[30px] text-[#251B23] text-left">Emmanuela AS - Visual Designer</p>
         <p className="text-[20px] text-[#251B23] text-left">Illustrator and Graphic Designer</p>
 
         <h3 className="text-3xl md:text-5xl lg:text-6xl font-bold tracking-tight mt 30 -ml 10">
@@ -53,7 +53,43 @@ export default function Hero() {
           height={500}
           className="shadow-lg mt-10"
         />
-         <p className="text-[30px] text-[#251B23] mb-8"  >ETCHAD; FOR ALL TIME POSTER [2025]</p>
+         <p className="text-[30px] text-[#251B23] mt-5 mb-8"  >ETCHAD; FOR ALL TIME POSTER [2025]</p>
+
+         < Link href="/tarot">
+          <Image
+          src="/Frame 2.png"
+          alt="THE FOOL"
+          width={500}
+          height={500}
+          className="shadow-lg transition-transform duration-300 ease-in-out hover:scale-105"
+          />
+        </Link>
+
+        <p className="text-[30px] text-[#251B23] mt-5 mb-8"  >A SELF INEPRETED MAJOR ARCANA DECK [2026]</p>
+
+        < Link href="/deckrant">
+          <Image
+          src="/Poster CDW.png"
+          alt="DECK RANT"
+          width={500}
+          height={500}
+          className="shadow-lg transition-transform duration-300 ease-in-out hover:scale-105"
+          />
+        </Link>
+
+        <p className="text-[30px] text-[#251B23] mt-5 mb-8"  >DECK RANTS CAMPAIGN CONCEPT [2026]</p>
+
+        < Link href="/nestle">
+          <Image
+          src="/Nestle.png"
+          alt="DECK RANT"
+          width={500}
+          height={500}
+          className="shadow-lg transition-transform duration-300 ease-in-out hover:scale-105"
+          />
+        </Link>
+
+        <p className="text-[30px] text-[#251B23] mt-5 mb-8"  >NESTLÉ REDISGN IN ART NOUVEAU STYLE [2025]</p>
 
         <Image
           src="/CHARACTERDESIGN.png"
@@ -63,7 +99,7 @@ export default function Hero() {
           className="shadow-lg"
         />
 
-        <p className="text-[30px] text-[#251B23] mb-8"  >DEKAVE CHARACTER DESIGNS [2025]</p>
+        <p className="text-[30px] text-[#251B23] mt-5 mb-8"  >DEKAVE CHARACTER DESIGNS [2025]</p>
 
         <Image
           src="/SOSRODESIGN.png"
@@ -72,7 +108,7 @@ export default function Hero() {
           height={900}
           className=" shadow-lg"
            />
-           <p className="text-[30px] text-[#251B23] mb-8"  >TЕН ВOТOL PACKAGING COMPETITION: THE PANDAVAS [2025]</p>
+           <p className="text-[30px] text-[#251B23] mt-5 mb-8"  >TEH BOTOL PACKAGING COMPETITION: THE PANDAVAS [2025]</p>
 
 <         Link href="/zine">
           <Image
@@ -80,11 +116,11 @@ export default function Hero() {
           alt="MAHABARATA ZINE"
           width={500}
           height={500}
-          className="shadow-lg"
+          className="shadow-lg transition-transform duration-300 ease-in-out hover:scale-105"
           />
         </Link>
 
-        <p className="text-[30px] text-[#251B23] mb-8"  >COMPARISON ZINE BETWEEN THE PANDAVAS AND THE KAURAVAS [2025]</p>
+        <p className="text-[30px] text-[#251B23] mt-5 mb-8"  >COMPARISON ZINE BETWEEN THE PANDAVAS AND THE KAURAVAS [2025]</p>
 
     </section>
     
