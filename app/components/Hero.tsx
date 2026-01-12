@@ -79,18 +79,6 @@ export default function Hero() {
 
         <p className="text-[30px] text-[#251B23] mt-5 mb-8"  >DECK RANTS CAMPAIGN CONCEPT [2026]</p>
 
-        < Link href="/nestle">
-          <Image
-          src="/Nestle.png"
-          alt="NESTLE"
-          width={500}
-          height={500}
-          className="shadow-lg transition-transform duration-300 ease-in-out hover:scale-105"
-          />
-        </Link>
-
-        <p className="text-[30px] text-[#251B23] mt-5 mb-8"  >NESTLÉ REDISGN IN ART NOUVEAU STYLE [2025]</p>
-
         <Image
           src="/CHARACTERDESIGN.png"
           alt="DKV DESIGNS"

@@ -5,10 +5,10 @@ export default function AboutPage() {
   <div>
        <section className="py-20 px-30 bg-[#F7F3EA]">
       <h1 className="text-6xl font-bold tracking-tight">
-        <p className="text-[50px] text-[#0CA4D5] mb-8"  >CA SELF INEPRETED MAJOR ARCANA DECK [2026]</p></h1>
+        <p className="text-[50px] text-[#0CA4D5] mb-8"  >A SELF INEPRETED MAJOR ARCANA DECK [2026]</p></h1>
 
         <Image
-          src="/Frame 3.png"
+          src="/TAROT.png"
           alt="PREVIEW"
           width={1000}
           height={1000}
