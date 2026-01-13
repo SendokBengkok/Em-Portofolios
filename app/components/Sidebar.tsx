@@ -10,7 +10,7 @@ export default function Sidebar() {
     <div 
     className="h-screen w-80 bg-[#FFB700] text-[#251B23] fixed right-0 top-0 p-6 flex flex-col">
       <nav className="flex flex-col gap-5">
-        <Image src="/LOGO NEW.png" alt="EMI BRAND" width={200}height={200} className="m-0 p-0 block"/>
+       <Link href="/" > <Image src="/LOGO NEW.png" alt="EMI BRAND" width={200}height={200} className="m-0 p-0 block transition-transform duration-300 ease-in-out hover:scale-105"/></Link>
         <Link href="/" className="text-[28px] transition-transform duration-300 ease-in-out hover:text-[#F7F3EA]">PERSONAL PROJECT</Link>
         <Link href="/branding" className="text-[28px] hover:text-[#F7F3EA]">BRANDING</Link>
         <Link href="/fanart" className="text-[28px] hover:text-[#F7F3EA]">FANART</Link>
