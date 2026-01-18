@@ -12,6 +12,16 @@ export default function FanartPage() {
         <span className="text-[125px] text-[#E3086F] -ml-2 mix-blend-multiply">R</span>  
         <span className="text-[125px] text-[#E3086F] -ml-2 mix-blend-multiply">T</span>  
         </h1>
+          <Image
+                          src="/SANJI ZEFF.png"
+                          alt="AFTERNOON SPENT"
+                          width={900}
+                          height={900}
+                          className="shadow-lg"
+                        />
+        
+                 <p className="text-[30px] text-[#251B23] mb-8"  >AFTERNOON SPENT (ONE PIECE) [2026]</p>
+        
          <Image
                           src="/sore.png"
                           alt="SORE: ISTRI DARI MASA DEPAN FANART"
