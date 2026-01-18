@@ -57,7 +57,7 @@ export default function FanartPage() {
           <Image src="/shima.png" alt="SHIMA POSTER" width={400} height={900} className="shadow-lg" />
               </div>
         
-                <p className="text-[30px] text-[#251B23] mb-8"  >AUTUMN DATE (SKIP AND LOAFER) [2025]</p>
+                <p className="text-[30px] text-[#251B23] mt-5 mb-8"  >AUTUMN DATE (SKIP AND LOAFER) [2025]</p>
         <div className="grid grid-cols-3">
 
           <Image src="/ZORO.png" alt="ZORO STICKER" width={400} height={300} className="shadow-lg" />
@@ -65,7 +65,7 @@ export default function FanartPage() {
           <Image src="/LUFFY.png" alt="LUFFY STICKER" width={400} height={900} className="shadow-lg" />
               </div>
         
-                <p className="text-[30px] text-[#251B23] mt-5 mb-8"  >AMONSTER TRIO (ONE PIECE) [2025]</p>
+                <p className="text-[30px] text-[#251B23] mt-5 mb-8"  >MONSTER TRIO (ONE PIECE) [2025]</p>
         
       </section>
       

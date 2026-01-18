@@ -72,7 +72,7 @@ export default function BrandingPage() {
                   height={500}
                   className="shadow-lg"
                 />
-   <p className="text-[30px] text-[#251B23] mb-8"  >MONOGRAM DESIGN [2025]</p>
+   <p className="text-[30px] text-[#251B23] mt-5 mb-8" >MONOGRAM DESIGN [2025]</p>
                  <Image
                   src="/BAGEL.png"
                   alt="BAGEL BUSINESS LOGO"
