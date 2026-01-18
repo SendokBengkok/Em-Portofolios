@@ -37,7 +37,7 @@ export default function BrandingPage() {
                   className="shadow-lg"
                 />
 
-         <p className="text-[30px] text-[#251B23] mb-8"  >MAKAN POSTER [2025]</p>
+         <p className="text-[30px] text-[#251B23] mt-5 mb-8"  >MAKAN POSTER [2025]</p>
 
  <Image 
   src="/BG.png" 
@@ -47,7 +47,7 @@ export default function BrandingPage() {
   className="shadow-lg" 
   />
 
-        <p className="text-[30px] text-[#251B23] mb-8"  >BIFEST BACKDROP DESIGN [2025]</p>
+        <p className="text-[30px] text-[#251B23] mt-5 mb-8"  >BIFEST BACKDROP DESIGN [2025]</p>
 
 
                 <Image
@@ -63,7 +63,7 @@ export default function BrandingPage() {
   <Image src="/MOCKUPPOSTER.png" alt="POSTER MOCKUP" width={400} height={900} className="shadow-lg" />
       </div>
 
-   <p className="text-[30px] text-[#251B23] mb-8"  >PANEN RAYA VISUAL IDENTITY [2025]</p>
+   <p className="text-[30px] text-[#251B23] mt-5 mb-8"  >PANEN RAYA VISUAL IDENTITY [2025]</p>
 
                 <Image
                   src="/MONOGRAM.png"
@@ -80,7 +80,7 @@ export default function BrandingPage() {
                   height={500}
                   className="shadow-lg"
                 />
-   <p className="text-[30px] text-[#251B23] mb-8"  >BAGELOGY LOGO DESIGN [2023]</p>
+   <p className="text-[30px] text-[#251B23] mt-5 mb-8"  >BAGELOGY LOGO DESIGN [2023]</p>
                  <Image
                   src="/BOW.png"
                   alt="LANE N LOOP LOGO"
@@ -88,7 +88,7 @@ export default function BrandingPage() {
                   height={500}
                   className="shadow-lg"
                 />
-   <p className="text-[30px] text-[#251B23] mb-8"  >LACE N LOOP BRAND LOGO [2023]</p>
+   <p className="text-[30px] text-[#251B23] mt-5 mb-8"  >LACE N LOOP BRAND LOGO [2023]</p>
 
       </section>
       <footer className="text-center bg-[#F7F3EA]">

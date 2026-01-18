@@ -20,7 +20,7 @@ export default function FanartPage() {
                           className="shadow-lg"
                         />
         
-                 <p className="text-[30px] text-[#251B23] mb-8"  >AFTERNOON SPENT (ONE PIECE) [2026]</p>
+                 <p className="text-[30px] text-[#251B23] mt-5 mb-8"  >AFTERNOON SPENT (ONE PIECE) [2026]</p>
         
          <Image
                           src="/sore.png"
@@ -30,7 +30,7 @@ export default function FanartPage() {
                           className="shadow-lg"
                         />
         
-                 <p className="text-[30px] text-[#251B23] mb-8"  >TENGGELAM DALAM WAKTU (SORE: ISTRI DARI MASA DEPAN) [2025]</p>
+                 <p className="text-[30px] text-[#251B23] mt-5 mb-8"  >TENGGELAM DALAM WAKTU (SORE: ISTRI DARI MASA DEPAN) [2025]</p>
         
          <Image 
           src="/sanji.png" 
@@ -40,7 +40,7 @@ export default function FanartPage() {
           className="shadow-lg" 
           />
         
-                <p className="text-[30px] text-[#251B23] mb-8"  >TELL ME ABOUT YOUR NEW HOME (ONE PIECE) [2025]</p>
+                <p className="text-[30px] text-[#251B23] mt-5 mb-8"  >TELL ME ABOUT YOUR NEW HOME (ONE PIECE) [2025]</p>
         
          <Image
                           src="/ut.png"
@@ -50,7 +50,7 @@ export default function FanartPage() {
                           className="shadow-lg"
                         />
         
-                 <p className="text-[30px] text-[#251B23] mb-8"  >LIGHT YOUR LOVE (UNDERTALE) [2025]</p>
+                 <p className="text-[30px] text-[#251B23] mt-5 mb-8"  >LIGHT YOUR LOVE (UNDERTALE) [2025]</p>
 
           <div className="grid grid-cols-2">
           <Image src="/mistumi.png" alt="MITSUMI POSTER" width={400} height={300} className="shadow-lg" />
@@ -65,7 +65,7 @@ export default function FanartPage() {
           <Image src="/LUFFY.png" alt="LUFFY STICKER" width={400} height={900} className="shadow-lg" />
               </div>
         
-                <p className="text-[30px] text-[#251B23] mb-8"  >AMONSTER TRIO (ONE PIECE) [2025]</p>
+                <p className="text-[30px] text-[#251B23] mt-5 mb-8"  >AMONSTER TRIO (ONE PIECE) [2025]</p>
         
       </section>
       

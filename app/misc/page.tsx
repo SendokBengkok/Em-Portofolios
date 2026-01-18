@@ -18,7 +18,7 @@ export default function MiscPage() {
             <Image src="/3.png" alt="CONES" width={600} height={600} className="shadow-lg" />
                 </div>
           
-             <p className="text-[30px] text-[#251B23] mb-8"  >NEGATIVE SPACE [2024]</p>
+             <p className="text-[30px] text-[#251B23] mt-5 mb-8"  >NEGATIVE SPACE [2024]</p>
           
          <Image
                           src="/4.png"
@@ -28,7 +28,7 @@ export default function MiscPage() {
                           className="shadow-lg"
                         />
         
-                 <p className="text-[30px] text-[#251B23] mb-8"  >SCOTT PLIGRIM REDRAW [2024]</p>
+                 <p className="text-[30px] text-[#251B23] mt-5 mb-8"  >SCOTT PLIGRIM REDRAW [2024]</p>
 
                           <Image
                           src="/5.png"
@@ -38,7 +38,7 @@ export default function MiscPage() {
                           className="shadow-lg"
                         />
         
-                 <p className="text-[30px] text-[#251B23] mb-8"  >APPLE STUDY [2024]</p>
+                 <p className="text-[30px] text-[#251B23] mt-5 mb-8"  >APPLE STUDY [2024]</p>
       </section>
       <footer className="text-center bg-[#F7F3EA]">
       <p className="text-sm text-gray-600">© 2026 Emmae&apos;s Portofolio. All rights reserved.</p>
