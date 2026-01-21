@@ -23,7 +23,7 @@ export default function AboutPage() {
         />
 
         <p className="text-[25px] text-[#251B23] mt-8"  >A Major Arcana Deck that represented me and my values. 22 Illustrated Major Arcana cards reflecting identity, principles and emotions into a single form.</p>
-        <Link href="https://www.instagram.com/emisnt_2/" className="text-[28px] text-[#E3086F] underline rounded-lg hover:text-[#0CA4D5]">MY POST ABOUT THE PROCESS (COMING SOON!)</Link>
+        <Link href="https://www.instagram.com/p/DTxpKwQCfHC/?igsh=MTY5MDJjdXJlZnd1aw==" className="text-[28px] text-[#E3086F] underline rounded-lg hover:text-[#0CA4D5]">MY POST ABOUT THE PROCESS</Link>
 
       </section>
       
