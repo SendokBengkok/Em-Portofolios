@@ -21,6 +21,16 @@ export default function FanartPage() {
                         />
         
                  <p className="text-[30px] text-[#251B23] mt-5 mb-8"  >AFTERNOON SPENT (ONE PIECE) [2026]</p>
+
+          <Image
+                          src="/Summer trip.png"
+                          alt="SUMMER TRIP"
+                          width={900}
+                          height={900}
+                          className="shadow-lg"
+                        />
+        
+                 <p className="text-[30px] text-[#251B23] mt-5 mb-8"  >SUMMER TRIP (ONE PIECE) [2026]</p>
         
          <Image
                           src="/sore.png"
