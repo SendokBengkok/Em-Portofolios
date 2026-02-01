@@ -52,16 +52,7 @@ export default function FanartPage() {
         
                 <p className="text-[30px] text-[#251B23] mt-5 mb-8"  >TELL ME ABOUT YOUR NEW HOME (ONE PIECE) [2025]</p>
         
-         <Image
-                          src="/ut.png"
-                          alt="LIGHT MY LOVE UNDERTALE FANART"
-                          width={500}
-                          height={500}
-                          className="shadow-lg"
-                        />
-        
-                 <p className="text-[30px] text-[#251B23] mt-5 mb-8"  >LIGHT YOUR LOVE (UNDERTALE) [2025]</p>
-
+      
           <div className="grid grid-cols-2">
           <Image src="/mistumi.png" alt="MITSUMI POSTER" width={400} height={300} className="shadow-lg" />
           <Image src="/shima.png" alt="SHIMA POSTER" width={400} height={900} className="shadow-lg" />
