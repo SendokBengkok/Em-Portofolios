@@ -18,7 +18,7 @@ export default function Sidebar() {
         <Link href="/about" className="text-[28px] hover:text-[#F7F3EA]">ABOUT</Link>
       </nav>
       
-        <div className="grid grid-cols-4 mt-10">
+        <div className="grid grid-cols-5 mt-10">
    
       <Link href="https://www.instagram.com/emisnt_2/" target="_blank">
         <Instagram className="transition-transform duration-300 ease-in-out w-10 h-10 text-[#251B23] hover:text-[#F7F3EA] transition" />
