@@ -2,7 +2,7 @@
 
 import Image from "next/image"
 import Link from "next/link"
-import { Twitter, Youtube, Linkedin, Instagram } from "lucide-react";
+import { Twitter, Youtube, Linkedin, Instagram, ShoppingCartIcon } from "lucide-react";
 
 
 export default function Sidebar() {
@@ -35,6 +35,10 @@ export default function Sidebar() {
 
       <Link href="https://www.linkedin.com/in/emmanuela-agatha-susanto-31a228324/" target="_blank">
         <Linkedin className="w-10 h-10 text-[#251B23] hover:text-[#F7F3EA] transition" />
+      </Link>
+
+      <Link href="https://vgen.co/emisnt_2" target="_blank">
+        <ShoppingCartIcon className="w-10 h-10 text-[#251B23] hover:text-[#F7F3EA] transition" />
       </Link>
     </div>
 
