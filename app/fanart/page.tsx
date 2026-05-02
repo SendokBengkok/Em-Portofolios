@@ -24,7 +24,7 @@ export default function FanartPage() {
       
         <Image src="/BUSTED.png" 
           alt="RITSU KAGEYAMA POSTER" 
-          width={400} height={300} 
+          width={600} height={600} 
           className="shadow-lg" />
         
                 <p className="text-[30px] text-[#251B23] mt-5 mb-8"  >BUSTED! (MOB PSYCHO 100) [2026]</p>

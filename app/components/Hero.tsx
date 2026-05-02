@@ -91,7 +91,7 @@ export default function Hero() {
         <p className="text-[30px] text-[#251B23] mt-5 mb-8"  >HOMO SAPIENS ZINE [2026]</p>
 
 
- <Link href="/mangroves">
+ <Link href="/mangrove">
         <Image
           src="/Cover mangrove.png"
           alt="Mangrove"
