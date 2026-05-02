@@ -15,8 +15,8 @@ export default function FanartPage() {
  <Image 
           src="/LUSAN.png" 
           alt="LUFFY AND SANJI FANART" 
-          width={800} 
-          height={800} 
+          width={900} 
+          height={900} 
           className="shadow-lg" 
           />
         
