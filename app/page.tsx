@@ -1,12 +1,41 @@
+import type { Metadata } from "next";
+import { Geist, Geist_Mono } from "next/font/google";
+import "./globals.css";
+import Sidebar from "./components/Sidebar";
+import AnimatedWrapper from "./AnimatedWrapper";
 
-import Hero from "./components/Hero"
-import Footer from "./components/Footer"
+const geistSans = Geist({
+  variable: "--font-geist-sans",
+  subsets: ["latin"],
+});
 
-export default function Home() {
+const geistMono = Geist_Mono({
+  variable: "--font-geist-mono",
+  subsets: ["latin"],
+});
+
+export const metadata: Metadata = {
+  title: "Portofolio",
+  description: "My Next.js Portfolio",
+};
+
+export default function RootLayout({
+  children,
+}: {
+  children: React.ReactNode;
+}) {
   return (
-    <main>
-      <Hero />
-      <Footer />
-         </main>
-  )
+    <html lang="en">
+      <body>
+        <Sidebar />
+
+        <main className="mr-64">
+          <AnimatedWrapper>
+            {children}
+          </AnimatedWrapper>
+        </main>
+
+      </body>
+    </html>
+  );
 }
