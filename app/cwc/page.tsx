@@ -14,7 +14,7 @@ export default function AboutPage() {
           className="hadow-lg"
         />
 
-        <p className="text-[25px] text-[#251B23] mt-8"  >A zine exploring human and humanity through the art of writing (layout and design by me).</p>
+        <p className="text-[25px] text-[#251B23] mt-8"  >A zine exploring human and humanity through the art of writing (layouted and designed by me).</p>
 
       </section>
     </div>
