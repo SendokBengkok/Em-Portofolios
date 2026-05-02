@@ -2,6 +2,7 @@
 import Image from "next/image"
 import Link from "next/link"
 
+
 export default function Hero() {
   return (
     <section className="py-20 px-30 bg-[#F7F3EA]">
@@ -79,24 +80,29 @@ export default function Hero() {
 
         <p className="text-[30px] text-[#251B23] mt-5 mb-8"  >DECK RANTS CAMPAIGN CONCEPT [2026]</p>
 
+ <Link href="/cwc">
         <Image
-          src="/CHARACTERDESIGN.png"
-          alt="DKV DESIGNS"
+          src="/CWC Zine.png"
+          alt="ZINE CREATIVE COPYWRITING"
           width={900}
           height={900}
-          className="shadow-lg"
+           className="shadow-lg transition-transform duration-300 ease-in-out hover:scale-105"
         />
+            </Link>
 
-        <p className="text-[30px] text-[#251B23] mt-5 mb-8"  >DEKAVE CHARACTER DESIGNS [2025]</p>
+        <p className="text-[30px] text-[#251B23] mt-5 mb-8"  >HOMO SAPIENS ZINE [2026]</p>
 
+
+ <Link href="/mangrove">
         <Image
-          src="/SOSRODESIGN.png"
-          alt="SOSRO COMPETITION 2025"
+          src="/Cover mangrove.png"
+          alt="Mangrove"
           width={900}
           height={900}
           className=" shadow-lg"
            />
-           <p className="text-[30px] text-[#251B23] mt-5 mb-8"  >TEH BOTOL PACKAGING COMPETITION: THE PANDAVAS [2025]</p>
+                 </Link>
+           <p className="text-[30px] text-[#251B23] mt-5 mb-8"  >EDUCATIONAL KIDS BOOK ABOUT MANGROVES [2025]</p>
 
 <         Link href="/zine">
           <Image
@@ -112,8 +118,7 @@ export default function Hero() {
 
     </section>
     
+    
   )
   
 }
-
-   

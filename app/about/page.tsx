@@ -25,9 +25,9 @@ export default function AboutPage() {
 
         <div className="p-0"> 
           <h1 className=" text-[30px] text-[#251B23]" >EMMANUELA AS.</h1>
-          <p className="text-[20px] text-[#E3086F]"> Indonesian illustrator </p>
+          <p className="text-[20px] text-[#E3086F]"> Indonesian Illustrator </p>
 
-           <p className="text-[20px] text-[#E3086F]"> Majoring in Visual Design </p>
+           <p className="text-[20px] text-[#0CA4D5]"> Majoring in Visual Design </p>
 
          <Link href="https://drive.google.com/drive/folders/1rvZ4DxmW67GkDhhqtQ_5snJPG2tDaXEu?usp=drive_link" 
          target="_blank" 

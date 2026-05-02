@@ -3,6 +3,7 @@ import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 import Sidebar from "./components/Sidebar"
+import AnimatedWrapper from "./AnimatedWrapper";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -29,6 +30,7 @@ export default function RootLayout({
       <body>
         <Sidebar />
         <main className="mr-64">{children}</main>
+         <AnimatedWrapper>{children}</AnimatedWrapper>
       </body>
     </html>
   )
