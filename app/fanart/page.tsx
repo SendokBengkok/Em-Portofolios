@@ -15,13 +15,23 @@ export default function FanartPage() {
  <Image 
           src="/LUSAN.png" 
           alt="LUFFY AND SANJI FANART" 
-          width={900} 
-          height={900} 
+          width={1100} 
+          height={1100} 
           className="shadow-lg" 
           />
         
                 <p className="text-[30px] text-[#251B23] mt-5 mb-8"  >UNCONDITIONAL LOVE FOR SOMEONE LIKE YOU (ONE PIECE) [2026]</p>
       
+      <Image 
+          src="/PHM.png" 
+          alt="PROJECT HAIL MARY FANART" 
+          width={1100} 
+          height={1100} 
+          className="shadow-lg" 
+          />
+                <p className="text-[30px] text-[#251B23] mt-5 mb-8"  >A MERCIFUL UNIVERSE (PROJECT HAIL MARY) [2026]</p>
+
+
         <Image src="/BUSTED.png" 
           alt="RITSU KAGEYAMA POSTER" 
           width={600} height={600} 
