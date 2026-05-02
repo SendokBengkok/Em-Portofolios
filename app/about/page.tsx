@@ -103,9 +103,6 @@ and working together with others around.
           height={900}
         />
       </section>
-      <footer className="text-center bg-[#F7F3EA]">
-      <p className="text-sm text-gray-600">© 2026 Emma&apos;s Portofolio. All rights reserved.</p>
-    </footer>
     </div>
   )
 }

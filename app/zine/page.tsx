@@ -33,9 +33,6 @@ export default function AboutPage() {
         <p className="text-[25px] text-[#251B23] mt-8"  >A zine comparing Pandavas and Kauravas that have similarities/parallels each other (based on the Indian mythology). Ite&apos;s an illustration focused zine. Designs are original based on how I personally interpret the story.</p>
 
       </section>
-      <footer className="text-center bg-[#F7F3EA]">
-      <p className="text-sm text-gray-600">© 2026 Emmae&apos;s Portofolio. All rights reserved.</p>
-    </footer>
     </div>
   )
 }
