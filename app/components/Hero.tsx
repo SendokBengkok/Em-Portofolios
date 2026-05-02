@@ -82,8 +82,8 @@ export default function Hero() {
         <Image
           src="/CWC Zine.png"
           alt="ZINE CREATIVE COPYWRITING"
-          width={300}
-          height={300}
+          width={500}
+          height={500}
            className="shadow-lg transition-transform duration-300 ease-in-out hover:scale-105"
         />
             </Link>
@@ -95,8 +95,8 @@ export default function Hero() {
         <Image
           src="/Cover mangrove.png"
           alt="Mangrove"
-          width={300}
-          height={300}
+          width={500}
+          height={500}
           className="shadow-lg transition-transform duration-300 ease-in-out hover:scale-105"
            />
                  </Link>

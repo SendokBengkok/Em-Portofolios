@@ -32,8 +32,8 @@ export default function FanartPage() {
           <Image
                           src="/SANJI ZEFF.png"
                           alt="AFTERNOON SPENT"
-                          width={1100}
-                          height={1100}
+                          width={900}
+                          height={900}
                           className="shadow-lg"
                         />
         
