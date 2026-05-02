@@ -82,8 +82,8 @@ export default function Hero() {
         <Image
           src="/CWC Zine.png"
           alt="ZINE CREATIVE COPYWRITING"
-          width={500}
-          height={500}
+          width={300}
+          height={300}
            className="shadow-lg transition-transform duration-300 ease-in-out hover:scale-105"
         />
             </Link>
@@ -91,12 +91,12 @@ export default function Hero() {
         <p className="text-[30px] text-[#251B23] mt-5 mb-8"  >HOMO SAPIENS ZINE [2026]</p>
 
 
- <Link href="/mangrove">
+ <Link href="/mangroves">
         <Image
           src="/Cover mangrove.png"
           alt="Mangrove"
-          width={500}
-          height={500}
+          width={300}
+          height={300}
           className="shadow-lg transition-transform duration-300 ease-in-out hover:scale-105"
            />
                  </Link>

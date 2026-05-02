@@ -13,7 +13,7 @@ export default function AboutPage() {
           height={1100}
           className="hadow-lg"
         />
-        <p className="text-[25px] text-[#251B23] mt-8"  >An educational kids book about mangroves (colored and rendered by emi).</p>
+        <p className="text-[25px] text-[#251B23] mt-8"  >An educational kids book about mangroves (colored and rendered by me).</p>
 
       </section>
       <footer className="text-center bg-[#F7F3EA]">
