@@ -1,8 +1,6 @@
 
 import Image from "next/image"
 import Link from "next/link"
-
-
 export default function Hero() {
   return (
     <section className="py-20 px-30 bg-[#F7F3EA]">
@@ -84,8 +82,8 @@ export default function Hero() {
         <Image
           src="/CWC Zine.png"
           alt="ZINE CREATIVE COPYWRITING"
-          width={900}
-          height={900}
+          width={500}
+          height={500}
            className="shadow-lg transition-transform duration-300 ease-in-out hover:scale-105"
         />
             </Link>
@@ -97,9 +95,9 @@ export default function Hero() {
         <Image
           src="/Cover mangrove.png"
           alt="Mangrove"
-          width={900}
-          height={900}
-          className=" shadow-lg"
+          width={500}
+          height={500}
+          className="shadow-lg transition-transform duration-300 ease-in-out hover:scale-105"
            />
                  </Link>
            <p className="text-[30px] text-[#251B23] mt-5 mb-8"  >EDUCATIONAL KIDS BOOK ABOUT MANGROVES [2025]</p>
@@ -117,8 +115,6 @@ export default function Hero() {
         <p className="text-[30px] text-[#251B23] mt-5 mb-8"  >COMPARISON ZINE BETWEEN THE PANDAVAS AND THE KAURAVAS [2025]</p>
 
     </section>
-    
-    
   )
   
 }
