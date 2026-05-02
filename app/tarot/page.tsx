@@ -26,10 +26,6 @@ export default function AboutPage() {
         <Link href="https://www.instagram.com/p/DTxpKwQCfHC/?igsh=MTY5MDJjdXJlZnd1aw==" className="text-[28px] text-[#E3086F] underline rounded-lg hover:text-[#0CA4D5]">MY POST ABOUT THE PROCESS</Link>
 
       </section>
-      
-      <footer className="text-center bg-[#F7F3EA]">
-      <p className="text-sm text-gray-600">© 2026 Emmae&apos;s Portofolio. All rights reserved.</p>
-    </footer>
     </div>
   )
 }

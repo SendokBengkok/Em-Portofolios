@@ -60,10 +60,6 @@ export default function AboutPage() {
 
         <p className="text-[25px] text-[#251B23] mt-8"  >Concept for a podcast campaign that goals to help students cope together in the middle of their stressful life. They can tell each of their struggles and stories in this podcast session that will be aired online, which in turn will let other students know that they’re not struggling alone.</p>
       </section>
-      
-      <footer className="text-center bg-[#F7F3EA]">
-      <p className="text-sm text-gray-600">© 2026 Emmae&apos;s Portofolio. All rights reserved.</p>
-    </footer>
     </div>
   )
 }

@@ -14,12 +14,9 @@ export default function AboutPage() {
           className="hadow-lg"
         />
 
-        <p className="text-[25px] text-[#251B23] mt-8"  >A zine exploring human and humanity through the art of writing (layout and design by emi).</p>
+        <p className="text-[25px] text-[#251B23] mt-8"  >A zine exploring human and humanity through the art of writing (layout and design by me).</p>
 
       </section>
-      <footer className="text-center bg-[#F7F3EA]">
-      <p className="text-sm text-gray-600">© 2026 Emmae&apos;s Portofolio. All rights reserved.</p>
-    </footer>
     </div>
   )
 }

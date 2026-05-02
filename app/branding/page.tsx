@@ -91,9 +91,6 @@ export default function BrandingPage() {
    <p className="text-[30px] text-[#251B23] mt-5 mb-8"  >LACE N LOOP BRAND LOGO [2023]</p>
 
       </section>
-      <footer className="text-center bg-[#F7F3EA]">
-      <p className="text-sm text-gray-600">© 2026 Emma&apos;s Portofolio. All rights reserved.</p>
-    </footer>
     </div>
   )
 }
