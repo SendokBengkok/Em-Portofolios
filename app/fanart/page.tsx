@@ -12,6 +12,16 @@ export default function FanartPage() {
         <span className="text-[125px] text-[#E3086F] -ml-2 mix-blend-multiply">R</span>  
         <span className="text-[125px] text-[#E3086F] -ml-2 mix-blend-multiply">T</span>  
         </h1>
+
+        <Image
+                          src="/RING.png"
+                          alt="RING-RING"
+                          width={900}
+                          height={900}
+                          className="shadow-lg"
+                        />
+        
+                 <p className="text-[30px] text-[#251B23] mt-5 mb-8"  >SOMEONE'S CALLING (ONE PIECE) [2026]</p>
  <Image 
           src="/LUSAN.png" 
           alt="LUFFY AND SANJI FANART" 
@@ -19,7 +29,6 @@ export default function FanartPage() {
           height={1100} 
           className="shadow-lg" 
           />
-        
                 <p className="text-[30px] text-[#251B23] mt-5 mb-8"  >UNCONDITIONAL LOVE FOR SOMEONE LIKE YOU (ONE PIECE) [2026]</p>
       
       <Image 
@@ -48,16 +57,6 @@ export default function FanartPage() {
                         />
         
                  <p className="text-[30px] text-[#251B23] mt-5 mb-8"  >AFTERNOON SPENT (ONE PIECE) [2026]</p>
-
-          <Image
-                          src="/Summer trip.png"
-                          alt="SUMMER TRIP"
-                          width={900}
-                          height={900}
-                          className="shadow-lg"
-                        />
-        
-                 <p className="text-[30px] text-[#251B23] mt-5 mb-8"  >SUMMER TRIP (ONE PIECE) [2026]</p>
         
          <Image
                           src="/KIM.png"

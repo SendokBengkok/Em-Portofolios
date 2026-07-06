@@ -45,14 +45,17 @@ export default function Hero() {
         <span className="text-[100px] text-[#251B23] -ml-2 mb-3 mix-blend-multiply">T</span>
         </h4>
 </div>
+
+< Link href="/TCOTEOTW">
         <Image
-          src="/ETCHAD.png"
-          alt="ETCHAD POSTER"
-          width={500}
-          height={500}
-          className="shadow-lg mt-10"
-        />
-         <p className="text-[30px] text-[#251B23] mt-5 mb-8"  >ETCHAD; FOR ALL TIME POSTER [2025]</p>
+          src="/TCOTEOTW.png"
+          alt="TEOTW ZINE"
+          width={800}
+          height={800}
+           className="shadow-lg transition-transform duration-300 ease-in-out hover:scale-105"
+        /></Link>
+
+         <p className="text-[30px] text-[#251B23] mt-5 mb-8"  >THE END OF THE WORLD ZINE [2025]</p>
 
          < Link href="/tarot">
           <Image
@@ -77,19 +80,6 @@ export default function Hero() {
         </Link>
 
         <p className="text-[30px] text-[#251B23] mt-5 mb-8"  >DECK RANTS CAMPAIGN CONCEPT [2026]</p>
-
- <Link href="/cwc">
-        <Image
-          src="/CWC Zine.png"
-          alt="ZINE CREATIVE COPYWRITING"
-          width={500}
-          height={500}
-           className="shadow-lg transition-transform duration-300 ease-in-out hover:scale-105"
-        />
-            </Link>
-
-        <p className="text-[30px] text-[#251B23] mt-5 mb-8"  >HOMO SAPIENS ZINE [2026]</p>
-
 
  <Link href="/mangrove">
         <Image

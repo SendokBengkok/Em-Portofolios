@@ -1,4 +1,6 @@
 import Image from "next/image"
+import Link from "next/link"
+
 export default function MiscPage() {
   return (
 <div>
@@ -12,6 +14,17 @@ export default function MiscPage() {
         <span className="text-[200px] text-[#251B23] -ml-2 mix-blend-multiply">.</span>   
         </h1>
 
+         <Link href="/cwc">
+        <Image
+          src="/NQT.png"
+          alt="NOT QUITE THERE"
+          width={400}
+          height={400}
+           className="shadow-lg transition-transform duration-300 ease-in-out hover:scale-105"
+        /> </Link>
+
+        <p className="text-[30px] text-[#251B23] mt-5 mb-8"  >NOT QUITE THERE DEMO [2026]</p>
+
           <div className="grid grid-cols-3">
             <Image src="/1.png" alt="BASEMENT" width={600} height={600} className="shadow-lg" />
             <Image src="/2.png" alt="BALCONY" width={600} height={600} className="shadow-lg" />
@@ -19,7 +32,7 @@ export default function MiscPage() {
                 </div>
           
              <p className="text-[30px] text-[#251B23] mt-5 mb-8"  >NEGATIVE SPACE [2024]</p>
-          
+
          <Image
                           src="/4.png"
                           alt="SCOTT PILGRIM REDRAW POSTER"

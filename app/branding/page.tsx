@@ -29,6 +29,18 @@ export default function BrandingPage() {
 
         <p className="text-[30px] text-[#251B23] mt-5 mb-8"  >NESTLÉ REDISGN IN ART NOUVEAU STYLE [2025]</p>
 
+         < Link href="/rr">
+<Image
+                  src="/RUWANG.png"
+                  alt="RUWANG-RAWUNG LOGO"
+                  width={500}
+                  height={500}
+                  className="shadow-lg transition-transform duration-300 ease-in-out hover:scale-105"
+                />
+                </Link>
+
+   <p className="text-[30px] text-[#251B23] mt-5 mb-8"  >RUWANG-RAWUNG BRANDING [2026]</p>
+
          <Image
                   src="/MAKAN.png"
                   alt="MAKAN POSTER"
@@ -81,15 +93,7 @@ export default function BrandingPage() {
                   className="shadow-lg"
                 />
    <p className="text-[30px] text-[#251B23] mt-5 mb-8"  >BAGELOGY LOGO DESIGN [2023]</p>
-                 <Image
-                  src="/BOW.png"
-                  alt="LANE N LOOP LOGO"
-                  width={500}
-                  height={500}
-                  className="shadow-lg"
-                />
-   <p className="text-[30px] text-[#251B23] mt-5 mb-8"  >LACE N LOOP BRAND LOGO [2023]</p>
-
+                 
       </section>
     </div>
   )
